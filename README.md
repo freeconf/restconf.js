@@ -1,3 +1,3 @@
-# freeconf
+# restconf
 
 RESTCONF libraries for js
